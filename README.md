@@ -23,12 +23,14 @@ Built a fully autonomous fire-detection and suppression rover using **Arduino (C
 
 
 
-https://github.com/user-attachments/assets/9dcb44c0-15af-4328-a21e-2545546a94cb
+https://github.com/user-attachments/assets/81ead5c4-243c-435a-8db2-126e422ed4d9
 
 
 
 
-https://github.com/user-attachments/assets/cfcb3d76-53bf-424f-b5e3-b1320be24570
+
+https://github.com/user-attachments/assets/b8691d5d-09d7-4859-b4cf-6c069557006d
+
 
 
 
