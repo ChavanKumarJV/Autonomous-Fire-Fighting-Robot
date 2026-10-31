@@ -34,5 +34,5 @@ https://github.com/user-attachments/assets/b8691d5d-09d7-4859-b4cf-6c069557006d
 
 
 
-<img width="1280" height="960" alt="WhatsApp Image 2026-10-31 at 11 04 33" src="https://github.com/user-attachments/assets/d9479705-a88f-4381-b5de-2d16f6ff4d82" />
+
 
