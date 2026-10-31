@@ -16,3 +16,21 @@ Built a fully autonomous fire-detection and suppression rover using **Arduino (C
 * **Microcontroller & Language:** Arduino Uno, Embedded C++
 * **Sensors:** 3-Channel IR Flame Sensor Array
 * **Motor Control & Actuation:** L298N Dual H-Bridge Motor Driver, DC Gear Motors, SG90 Servo Motor, 3V Water Pump + Relay Module
+
+---
+
+###Demo 
+
+
+
+https://github.com/user-attachments/assets/9dcb44c0-15af-4328-a21e-2545546a94cb
+
+
+
+
+https://github.com/user-attachments/assets/cfcb3d76-53bf-424f-b5e3-b1320be24570
+
+
+
+<img width="1280" height="960" alt="WhatsApp Image 2026-10-31 at 11 04 33" src="https://github.com/user-attachments/assets/d9479705-a88f-4381-b5de-2d16f6ff4d82" />
+
